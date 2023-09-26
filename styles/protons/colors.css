@@ -1,0 +1,37 @@
+:root{
+    --white: #ffffff;
+    --black: #000000;
+    --dark-gray: #333333;
+    --gray: #4f4f4f;
+    --light-gray: #828282;
+    --orange: #f2994a;
+    --smoke: #bdbdbd;
+}
+
+.background--white{
+    background-color: var(--white);
+}
+
+.color--black{
+    color: var(--black);
+}
+
+.color--dark-gray{
+    color: var(--dark-gray);
+}
+
+.color--gray{
+    color: var(--gray);
+}
+
+.color--light-gray{
+    color: var(--light-gray);
+}
+
+.color--orange{
+    color: var(--orange);
+}
+
+.color--smoke{
+    color: var(--smoke);
+}
