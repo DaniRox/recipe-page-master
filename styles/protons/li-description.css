@@ -1,0 +1,11 @@
+.li-description{
+    float: left;
+    width: 91%;
+    margin-left: 0.3rem;
+}
+
+.li-description--number{
+    float: left;
+    width: 84%;
+    margin-left: 0.9rem;
+}

@@ -33,8 +33,12 @@
     text-transform: uppercase;
 }
 
-.txt--s{
+.txt--xs{
     font-size: 0.8rem;
+}
+
+.txt--s{
+    font-size: 0.9rem;
 }
 
 .txt--m{
@@ -42,9 +46,17 @@
 }
 
 .txt--l{
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 
 .txt--xl{
-    font-size: 2rem;
+    font-size: 1.5rem;
+}
+
+.txt--height{
+    line-height: 1.5rem;
+}
+
+.title{
+    margin: 1.1rem 0;
 }
