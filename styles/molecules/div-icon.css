@@ -1,0 +1,21 @@
+.div-icon{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 1rem 0;
+}
+
+.div-icon--width-m{
+    width: 30%;
+}
+
+.div-icon--width-l{
+    width: 100%;
+}
+
+
+@media only screen and (min-width: 770px){
+    .div-icon--width-m{
+        width: 100%;
+    }
+}

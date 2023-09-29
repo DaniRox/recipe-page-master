@@ -1,0 +1,10 @@
+.recipe{
+    margin-right: 0rem;
+}
+
+
+@media only screen and (min-width: 770px){
+    .recipe{
+        margin-right: 5rem;
+    }
+}

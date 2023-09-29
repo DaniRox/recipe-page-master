@@ -1,3 +1,23 @@
 html{
     font-size: 16px;
+    padding: 0 3%;
+}
+
+
+@media only screen and (min-width: 470px){
+    html{
+        padding: 0 9%;
+    }
+}
+
+@media only screen and (min-width: 770px){
+    html{
+        padding: 0 12%;
+    }
+}
+
+@media only screen and (min-width: 1024px){
+    html{
+        padding: 0 15%;
+    }
 }

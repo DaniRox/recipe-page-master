@@ -8,3 +8,17 @@
     align-items: center;
     justify-content: center;
 }
+
+
+@media only screen and (min-width: 770px){
+    .div-img{
+        align-items: flex-end;
+        height: 20rem;
+    }
+}
+
+@media only screen and (min-width: 1024px){
+    .div-img{
+        height: 26rem;
+    }
+}

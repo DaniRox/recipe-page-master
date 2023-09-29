@@ -34,11 +34,11 @@
 }
 
 .txt--xs{
-    font-size: 0.8rem;
+    font-size: 0.6rem;
 }
 
 .txt--s{
-    font-size: 0.9rem;
+    font-size: 0.8rem;
 }
 
 .txt--m{
@@ -57,6 +57,6 @@
     line-height: 1.5rem;
 }
 
-.title{
-    margin: 1.1rem 0;
+.txt--link{
+    text-decoration: none;
 }
