@@ -28,6 +28,8 @@
 
 <!-- OVERVIEW -->
 
+![screenshot](https://user-images.githubusercontent.com/108234679/271682620-c2187b56-5578-4933-86ee-990dc4a82e4b.png)
+
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
