@@ -1,8 +1,22 @@
 .li-checkbox{
-    width: 1.3rem;
-    height: 1.3rem;
-    margin-top: -0.1rem;
-    border: 0.1rem solid var(--light-gray);
-    border-radius: 0.9rem;
+    appearance: none;
+    width: 1.4rem;
+    height: 1.4rem;
+    background-color: var(--white);
+    margin-top: -0.2rem;
+    border: 0.13rem solid var(--light-gray);
+    border-radius: 0.3rem;
     float: left;
+}
+
+.li-checkbox:hover{
+    background-color: var(--smoke);
+}
+
+.li-checkbox:checked{
+    background-color: var(--orange);
+    background-image: url(../../assets/check.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 0.9rem;
 }
